@@ -150,7 +150,7 @@ loadProvider()
     <div className="App">
       <nav className="navbar navbar-dark bg-dark">
   <div className="container-fluid">
-    <a className="navbar-brand">MrBebo Shop</a>
+    <a className="navbar-brand">By Mohammed - Abod</a>
     <form className="d-flex">
       <button className="btn btn-outline-success" >{account}</button>
     </form>
